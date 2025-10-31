@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frede\\Desktop\\TheKattisProject\\KattisForCSharp\\KattisForCSharp\\KattisForCSharp.csproj",
-      "projectName": "KattisForCSharp",
-      "projectPath": "C:\\Users\\frede\\Desktop\\TheKattisProject\\KattisForCSharp\\KattisForCSharp\\KattisForCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\frede\\Desktop\\TheKattisProject\\KattisForCSharp\\RailRoad\\RailRoad.csproj",
+      "projectName": "RailRoad",
+      "projectPath": "C:\\Users\\frede\\Desktop\\TheKattisProject\\KattisForCSharp\\RailRoad\\RailRoad.csproj",
       "packagesPath": "C:\\Users\\frede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frede\\Desktop\\TheKattisProject\\KattisForCSharp\\KattisForCSharp\\obj\\",
+      "outputPath": "C:\\Users\\frede\\Desktop\\TheKattisProject\\KattisForCSharp\\RailRoad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frede\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\bin\Debug\net10.0\KattisForCSharp.exe
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\bin\Debug\net10.0\KattisForCSharp.deps.json
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\bin\Debug\net10.0\KattisForCSharp.runtimeconfig.json
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\bin\Debug\net10.0\KattisForCSharp.dll
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\bin\Debug\net10.0\KattisForCSharp.pdb
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\KattisForCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\KattisForCSharp.AssemblyInfoInputs.cache
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\KattisForCSharp.AssemblyInfo.cs
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\KattisForCSharp.csproj.CoreCompileInputs.cache
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\KattisForCSharp.sourcelink.json
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\KattisForCSharp.dll
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\refint\KattisForCSharp.dll
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\KattisForCSharp.pdb
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\KattisForCSharp.genruntimeconfig.cache
+C:\Users\frede\Desktop\TheKattisProject\KattisForCSharp\KattisForCSharp\obj\Debug\net10.0\ref\KattisForCSharp.dll

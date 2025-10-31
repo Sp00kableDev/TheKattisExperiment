@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KattisForCSharp", "KattisForCSharp\KattisForCSharp.csproj", "{1F48CC89-FD9F-4DB5-A47D-AD8D7C4ED8CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailRoad", "RailRoad\RailRoad.csproj", "{1F48CC89-FD9F-4DB5-A47D-AD8D7C4ED8CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
